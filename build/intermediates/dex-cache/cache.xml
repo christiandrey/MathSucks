@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ead604811abb962800c92eb96658a1a890d1589f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_66589f961dfa8beacbb87ba56ba851b978b03126\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_6db0499b5a2dfeac950a585320796feec6743ca8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="edb21b0180362b32696bd16d925d3d4af1a07cd8">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_67b31f656a6d651b68dce03f7a53f29959daeb18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_98aab94e9b953abf579240d0b5a32f24c0c78c68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_124b9ddf559c44e52d119140df4275f8fcd87383\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_fb8574cb87f3abf4290cce1b384d155bb54d887e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_12a215a4d37038082e9d22465edae5f3f23ccf83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_6a7d97a9dca4a354087835e60cb581f690f06808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_71699a5e2e94aed55a4b18abe08161d0c27c504e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_9e9ea29a37e62a6a346040c2a827fab4d13b55c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_10cd953c940accdea77ebb67004f63b8f836c70e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_469630c18c79d96134392dd50f8045df504bbe74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ac226fea9e1d370621992167c230a3daa96b06c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_1bd188bfc11f64a3df588523814ade6f7791613d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="55338b181f20c34fb141ff35ea1ebe980da06949">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7fa294d8c484634d35b82b674432009da4a8e943\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_22acdbc7b2ece9790a3c98310563b98357a4c8a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_57b14c57e4cc0bb763cd493b56767d30b34ef750\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Android\AndroidStudioProjects\MathSucks\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_7208a18af05d06d0b61d49f63efa1db0e3574fa1\classes.dex" />
+    </item>
+
+</items>
